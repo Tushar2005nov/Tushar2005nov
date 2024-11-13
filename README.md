@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar Gupts
+- 👋 Hi, I’m @Tushar Gupta
 - 👀 I’m interested in Cloud Computing & Networking
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on ...
