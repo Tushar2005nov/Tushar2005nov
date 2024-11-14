@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Tushar Gupta
-- 👀 I’m interested in Cloud Computing & Networking
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to My GitHub Profile!
 
-<!---
-Tushar2005nov/Tushar2005nov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Tushar Gupta, a passionate Cloud Enthusiast. Recently, I'm pursuing a course in 'Diploma in Cloud Computing' from Jetking SouthEx, enhancing my skills in cloud technologies.
+
+Here, you'll find projects that showcase my expertise in web development. I'm dedicated to continuous learning and innovation.
+
+Feel free to explore, contribute, or connect with me!
+
+Get in Touch
+
+LinkedIn:https://www.linkedin.com/in/tushar-gupta-2nov2005
+
+Email: buntygupta9958@gmail.com
+
+
+Happy coding!
+
+
+---
+
+
