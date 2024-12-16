@@ -10,8 +10,11 @@ Get in Touch
 
 LinkedIn:https://www.linkedin.com/in/tushar-gupta-2nov2005
 
-Email: buntygupta9958@gmail.com
+Email:tushargupta05@outlook.com
 
+Instagram:https://www.instagram.com/tushargupta_21_
+
+X:https://x.com/tushargupta_18_
 
 Happy coding!
 
